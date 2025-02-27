@@ -43,7 +43,7 @@ to filter by date, roast type, loyalty card status, and product size.
 - **Slicers & Filters:** Enabled dynamic filtering for better data exploration.  
 - **Conditional Formatting:** Highlighted key insights in the dataset.
 
-  ---
+
 
 ## **Conclusion**  
 This dashboard serves as a valuable tool for understanding coffee sales performance. The insights can help in making strategic business decisions, such as targeting high-value customers, expanding in high-revenue regions, and optimizing product offerings.  
