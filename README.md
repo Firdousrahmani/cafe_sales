@@ -2,7 +2,7 @@
 
 ## Coffee Sales Dashboard - Excel Project
 
-**Objective**
+## **Objective**
 
 This project aims to analyze and visualize coffee sales data using Excel. The objective is to derive key insights from sales trends, customer behavior, 
 and product performance to help the business make data-driven decisions. The dashboard provides an interactive and dynamic view of the data, allowing users 
