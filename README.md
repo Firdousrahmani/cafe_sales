@@ -9,7 +9,7 @@ and product performance to help the business make data-driven decisions. The das
 to filter by date, roast type, loyalty card status, and product size.
 
 
-<br><br>
+<br>
 
 ![dashb_oard](https://github.com/Firdousrahmani/cafe_sales/blob/main/cofee%20sales%20dashboard.png)
 
